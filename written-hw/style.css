@@ -1,0 +1,12 @@
+.ans{
+    color: green;
+    display: block;
+    margin-top: .8rem;
+  }
+  li{
+    padding: 10px;
+  }
+  
+  .ctr {
+    text-align: center;
+  }
